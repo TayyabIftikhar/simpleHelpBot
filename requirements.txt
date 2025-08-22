@@ -1,0 +1,12 @@
+pypdf>=4.2.0
+streamlit>=1.13.0
+langchain>=0.0.95
+langchain-llama>=0.6.0
+langchain-ollama>=0.0.8
+langchain-chroma>=0.0.5
+chromadb>=0.4.24
+transformers>=4.21.0
+torch>=1.12.1
+sentencepiece>=0.1.96
+numpy>=1.23.0
+pandas>=1.4.3
